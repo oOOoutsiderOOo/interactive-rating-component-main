@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/oOOoutsiderOOo/nft-preview-card-component-main)
-- Live Site URL: [GitHub Pages](https://ooooutsiderooo.github.io/nft-preview-card-component-main/)
+- Solution URL: [GitHub](https://github.com/oOOoutsiderOOo/interactive-rating-component-main)
+- Live Site URL: [GitHub Pages](https://ooooutsiderooo.github.io/interactive-rating-component-main/)
 ## My process
 
 ### Built with
